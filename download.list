@@ -1,0 +1,19 @@
+# drive
+
+# dropbox
+DOMAIN-SUFFIX,db.tt,no-resolve
+DOMAIN-SUFFIX,dropbox-dns.com,no-resolve
+DOMAIN-SUFFIX,dropbox.com,no-resolve
+DOMAIN-SUFFIX,dropbox.tech,no-resolve
+DOMAIN-SUFFIX,dropbox.zendesk.com,no-resolve
+DOMAIN-SUFFIX,dropboxapi.com,no-resolve
+DOMAIN-SUFFIX,dropboxbusiness.com,no-resolve
+DOMAIN-SUFFIX,dropboxcaptcha.com,no-resolve
+DOMAIN-SUFFIX,dropboxforum.com,no-resolve
+DOMAIN-SUFFIX,dropboxforums.com,no-resolve
+DOMAIN-SUFFIX,dropboxinsiders.com,no-resolve
+DOMAIN-SUFFIX,dropboxmail.com,no-resolve
+DOMAIN-SUFFIX,dropboxpartners.com,no-resolve
+DOMAIN-SUFFIX,dropboxstatic.com,no-resolve
+DOMAIN-SUFFIX,dropboxusercontent.com,no-resolve
+DOMAIN-SUFFIX,getdropbox.com,no-resolve
